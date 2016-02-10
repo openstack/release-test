@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = release_test
+omit = release_test/openstack/*
+
+[report]
+ignore_errors = True
