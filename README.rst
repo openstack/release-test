@@ -11,4 +11,4 @@ release automation tools.
 * Free software: Apache license
 * Documentation: http://docs.openstack.org/developer/release-test
 * Source: http://git.openstack.org/cgit/openstack/release-test
-* Bugs: http://bugs.launchpad.net/openstack-release
+* Bugs: http://bugs.launchpad.net/openstack
