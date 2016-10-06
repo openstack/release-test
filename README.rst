@@ -1,6 +1,6 @@
-===============================
-release-test
-===============================
+==============
+ release-test
+==============
 
 Package for testing OpenStack release tools.
 
