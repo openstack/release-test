@@ -1,5 +1,5 @@
 ---
 other:
   - |
-    Testing the release job's ability to post comments on a launchpad bug.
+    Testing the release job's ability to post comments on a launchpad bug (take 2).
     https://bugs.launchpad.net/pbr/+bug/1726588
