@@ -1,0 +1,4 @@
+---
+prelude: >
+    This release exists to test the release machinery after the
+    PyPI upgrade on 16 Apr 2018.
