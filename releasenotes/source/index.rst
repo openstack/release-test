@@ -6,6 +6,7 @@
     :maxdepth: 1
 
     unreleased
+    rocky
     pike
     queens
     newton
