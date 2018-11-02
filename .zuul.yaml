@@ -1,4 +1,4 @@
 - project:
     templates:
       - noop-jobs
-      - publish-to-pypi-python3
+      - publish-to-pypi
