@@ -5,7 +5,7 @@
 Package for testing OpenStack release tools.
 
 This package contains no real useful code and should not need to be
-packaged by distributors. It's sole purpose is to test the OpenStack
+packaged by distributors. Its sole purpose is to test the OpenStack
 release automation tools.
 
 * Free software: Apache license
