@@ -6,6 +6,7 @@
     :maxdepth: 1
 
     unreleased
+    3.1
     ussuri
     train
     stein
