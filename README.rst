@@ -6,7 +6,7 @@ Package for testing OpenStack release tools.
 
 This package contains no real useful code and should not need to be
 packaged by distributors. Its sole purpose is to test the OpenStack
-release automation tools.
+release automation tools. I can use it to test closing PRs too…
 
 * Free software: Apache license
 * Documentation: http://docs.openstack.org/developer/release-test
