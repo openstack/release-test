@@ -10,3 +10,6 @@ Log
 
 2020-06-17:
     Testing out the ensure-tox and ensure-pip infra changes.
+
+2020-06-23:
+    Exercising recent change to simplify twine-upload role.
