@@ -55,8 +55,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'release-test Release Notes'
-copyright = u'2016, release-test Developers'
+project = 'release-test Release Notes'
+copyright = '2016, release-test Developers'
 
 # Release notes do not need a version in the title, they span
 # multiple versions.
@@ -208,8 +208,8 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     ('index', 'olso.configReleaseNotes.tex',
-     u'olso.config Release Notes Documentation',
-     u'release-test Developers', 'manual'),
+     'olso.config Release Notes Documentation',
+     'release-test Developers', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -239,8 +239,8 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'olso.configreleasenotes',
-     u'release-test Release Notes Documentation',
-     [u'release-test Developers'], 1)
+     'release-test Release Notes Documentation',
+     ['release-test Developers'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -254,8 +254,8 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
     ('index', 'release-testReleaseNotes',
-     u'release-test Release Notes Documentation',
-     u'release-test Developers', 'olso.configReleaseNotes',
+     'release-test Release Notes Documentation',
+     'release-test Developers', 'olso.configReleaseNotes',
      'An OpenStack library for parsing configuration options from the command'
      ' line and configuration files.',
      'Miscellaneous'),
